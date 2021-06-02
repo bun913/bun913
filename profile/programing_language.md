@@ -12,7 +12,7 @@
 - Python3.7系
 - JavaScript(ES6以降)
 - PHP(7系)
-- Ruby(5系)
+- Ruby(2系)
 
 ### FW/ライブラリ
 - FuelPHP

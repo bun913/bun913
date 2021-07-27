@@ -44,3 +44,4 @@ AWS認定状況
 |AWS 認定 DevOps　プロフェッショナル|2021年5月|
 |AWS 認定 セキュリティ　専門知識|2021年6月|
 |AWS 認定 データベース　専門知識|2021年7月|
+|Certified Kubernetes Administrator (CKA)|2021年8月|

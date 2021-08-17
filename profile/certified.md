@@ -11,7 +11,7 @@ AWS認定状況
 - クラウドプラクティショナー
 - アソシエイト3冠(SAA, SOA, DVA)
 - プロフェッショナル2冠(SAP, DOP)
-- スペシャリティ2冠(SCS,DS)
+- スペシャリティ3冠(SCS,DS,ANS)
 
 
 ## エンジニアになる前
@@ -45,3 +45,5 @@ AWS認定状況
 |AWS 認定 セキュリティ　専門知識|2021年6月|
 |AWS 認定 データベース　専門知識|2021年7月|
 |Certified Kubernetes Administrator (CKA)|2021年8月|
+|AWS 認定 高度なネットワーク　専門知識|2021年8月|
+|Certified Kubernetes Application Developer (CKAD)|2021年8月|

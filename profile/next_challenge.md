@@ -30,7 +30,7 @@
   - [x] CKA の取得
   - [x] CKAD の取得
 - [ ] DevOps の文化を理解する
-  - [ ] The Unicorn Project をまとめながら読了
+  - [x] The Unicorn Project をまとめながら読了
   - [ ] The DevOps ハンドブックをまとめながら読了
   - [ ] Effective DevOps をまとめながら読了
 - [ ] DevOps に必要なツールを学習

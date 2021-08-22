@@ -33,8 +33,11 @@
   - [x] The Unicorn Project をまとめながら読了
   - [ ] The DevOps ハンドブックをまとめながら読了
   - [ ] Effective DevOps をまとめながら読了
-- [ ] DevOps に必要なツールを学習
-      ↑ 未定
+- [ ] DevOps に必要なツールを学習(何を優先するか未定)
+
+## 関数型プログラミングを理解する
+
+- [ ] The Unicorn Projectで主人公が使いこなしていた関数型プログラミングの原則を理解したい
 
 ## AWS 関連やりたいこと
 

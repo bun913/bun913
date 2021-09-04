@@ -5,15 +5,6 @@
 2021 年度中に全ての試験合格を目指しています。
 （AWS 認定試験を通して、逆に AWS の経験をもっと深めていきたいです！）
 
-現在の状況
-
-AWS 認定状況
-
-- クラウドプラクティショナー
-- アソシエイト 3 冠(SAA, SOA, DVA)
-- プロフェッショナル 2 冠(SAP, DOP)
-- スペシャリティ 3 冠(SCS,DS,ANS)
-
 ## エンジニアになる前
 
 | 資格・試験         | 年月         |
@@ -46,3 +37,4 @@ AWS 認定状況
 | Certified Kubernetes Administrator (CKA)                | 2021 年 8 月  |
 | AWS 認定 高度なネットワーク　専門知識                   | 2021 年 8 月  |
 | Certified Kubernetes Application Developer (CKAD)       | 2021 年 8 月  |
+| AWS 認定 データアナリティクス　専門知識                 | 2021 年 9 月  |

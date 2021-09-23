@@ -29,10 +29,10 @@
 - [x] Kubernetes を理解・客観的に実力を証明
   - [x] CKA の取得
   - [x] CKAD の取得
-- [ ] DevOps の文化を理解する
+- [x] DevOps の文化を理解する
   - [x] The Unicorn Project をまとめながら読了
   - [x] The DevOps ハンドブックをまとめながら読了
-  - [ ] Effective DevOps をまとめながら読了
+  - [x] Effective DevOps をまとめながら読了
 - [ ] DevOps に必要なツールを学習(何を優先するか未定)
 - [ ] ユニットテストの知見を広げたい（コードの品質を上げて、心理的安全性を高めることができるようになりたい）
 

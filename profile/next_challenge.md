@@ -51,8 +51,10 @@ DevOps の文化を抑えるのを優先する。
   - [x] 平日の深夜や土日に特定のタグが付与された EC2 インスタンスを停止する
     - CloudWatchEvents + Lambda でスケジューリング実行
     - [やってみたリポジトリ](https://github.com/bun913/lamdba_ec2_stop)
-  - [ ] 上に関連して特定のタグが付与された EC2 インスタンスを毎朝起動する
+  - [X] 上に関連して特定のタグが付与された EC2 インスタンスを毎朝起動する
     - CloudWatchEvents + Lambda でスケジューリング実行
+      - ついでにGithubActionsを使ってみた 
+    - [やってみたリポジトリ](https://github.com/bun913/ec2_auto_start)
 - セキュリティ・コンプライアンス
   - [ ] 組織内のアカウントで CloutTrail をオフにしても、強制的に On に戻す
     - Organization と統合した CloudTrail + Events で Lamdba 起動か

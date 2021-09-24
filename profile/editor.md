@@ -15,6 +15,9 @@ vim や tmux 周りの設定は別途リポジトリにあげています
 | NeoVim 拡張  | これがないと始まらない。動作がもっさりしているところが欠点 |
 | Devcontainer | チーム開発の必需品。環境・フォーマッター設定の統一が簡単   |
 
+[Neovim拡張について書いた記事](https://zenn.dev/bun913/articles/02785aed0ba50e)
+[VsCodeのキーバインドについて](https://zenn.dev/bun913/articles/750754b8cf79be)
+
 ## vim について
 
 超簡単な vim プラグインを作成したりしています。

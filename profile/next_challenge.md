@@ -57,6 +57,8 @@ DevOps の文化を抑えるのを優先する。
     - CloudWatchEvents + Lambda でスケジューリング実行
       - ついでにGithubActionsを使ってみた 
     - [やってみたリポジトリ](https://github.com/bun913/ec2_auto_start)
+- StepFunctions / lambdaあれこれ
+  - [ ] S3イベント通知 -> StepFunction で EC2の処理を実施 -> 結果をSlackで通知 したい
 - セキュリティ・コンプライアンス
   - [ ] 組織内のアカウントで CloutTrail をオフにしても、強制的に On に戻す
     - Organization と統合した CloudTrail + Events で Lamdba 起動か

@@ -34,13 +34,12 @@
   - [x] The DevOps ハンドブックをまとめながら読了
   - [x] Effective DevOps をまとめながら読了
 - [ ] DevOps に必要なツールを学習(何を優先するか未定)
-- [ ] ユニットテストの知見を広げたい（コードの品質を上げて、心理的安全性を高めることができるようになりたい）
-  - [まだ途中だが進行中](https://github.com/bun913/software_test_practice_go)
-  - githubactionsのワークフローで自動テスト成功しないとマージさせないように調整
+- [x] ユニットテストの知見を広げたい（コードの品質を上げて、心理的安全性を高めることができるようになりたい）
+  - [やってみたリポジトリ](https://github.com/bun913/software_test_practice_go)
 
 ## 関数型プログラミングを理解する
 
-- [ ] The Unicorn Project で主人公が使いこなしていた関数型プログラミングの原則を理解したい
+- [ ] 楽しいHaskell本をやってみる
 
 ## AWS 関連やりたいこと
 

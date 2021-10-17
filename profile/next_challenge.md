@@ -6,7 +6,7 @@
 
 ### 2021 年度
 
-- [ ] AWS 認定試験 11 種合格
+- [x] AWS 認定試験 11 種合格
   - [x] DVA
   - [x] SAP
   - [x] DOP
@@ -14,7 +14,7 @@
   - [x] DS
   - [x] ANS
   - [x] DAS
-  - [ ] MLS
+  - [x] MLS
 - [x] CKA 合格
 - [x] CKAD 合格
 

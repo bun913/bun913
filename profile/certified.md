@@ -38,3 +38,4 @@
 | AWS 認定 高度なネットワーク　専門知識                   | 2021 年 8 月  |
 | Certified Kubernetes Application Developer (CKAD)       | 2021 年 8 月  |
 | AWS 認定 データアナリティクス　専門知識                 | 2021 年 9 月  |
+| AWS 認定 機械学習　専門知識                 | 2021 年 10月  |

@@ -19,4 +19,4 @@
 | [資格試験](./profile/certified.md)                | 資格試験の取得状況です。最近は AWS 認定に力を入れています |
 | [言語・FW](./profile/programing_language.md)      | これまで利用してきた言語・FW 等についてまとめています     |
 | [目標・やりたいこと](./profile/next_challenge.md) | 今後の目標・作りたいものなどメモ                          |
-| [エディター](./profile/editor.md)                 | エディターについて。なんちゃって vimmer です              |
+| [エディター](./profile/editor.md)                 | VSCode から nvim に移行しました。                         |

@@ -33,7 +33,8 @@
   - [x] The Unicorn Project をまとめながら読了
   - [x] The DevOps ハンドブックをまとめながら読了
   - [x] Effective DevOps をまとめながら読了
-- [ ] DevOps に必要なツールを学習(何を優先するか未定)
+- [x] DevOps に必要なツールを学習
+   - [この本](https://www.amazon.co.jp/dp/B09DKZC1ZH/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)を使って terraformに置き換えながらハンズオンで学習
 - [x] ユニットテストの知見を広げたい（コードの品質を上げて、心理的安全性を高めることができるようになりたい）
   - [やってみたリポジトリ](https://github.com/bun913/software_test_practice_go)
 

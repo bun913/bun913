@@ -9,6 +9,10 @@
   （Formerly a server-side engineer, now a DevOps engineer.）
 - `APN ALL AWS Certifications Engineers` と `APN AWS Top Engineers` になることが当面の目標です！
   （I want to be a APN ALL AWS Certifications Engineers and APN AWS Top Engineers.）
+- DevOpsの考えを体現したエンジニアになりたい(I want to be an engineer who embodies the idea of DevOps.)
+  - コラボレーション・アフィニティ(Collaboration Affinity)
+  - ツール・スケーリング (Tool Scaling)
+  - 自分の失敗は組織の学びのチャンス(My failure is an opportunity for the organization to learn.)
 
 ## 目次
 

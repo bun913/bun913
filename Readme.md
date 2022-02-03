@@ -13,6 +13,9 @@
   - コラボレーション・アフィニティ(Collaboration Affinity)
   - ツール・スケーリング (Tool Scaling)
   - 自分の失敗は組織の学びのチャンス(My failure is an opportunity for the organization to learn.)
+- アウトプットはzenn.devへ定期的にアウトプット中(Regularly outputting to zenn.dev.)
+  - https://zenn.dev/bun913
+
 
 ## 目次
 

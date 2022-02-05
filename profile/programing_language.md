@@ -1,21 +1,19 @@
 # 使用言語・FW等
 
-一番好きな言語はPython
+一番好きな言語はPythonです。(ありがちですが内包表記にとてもエモさを感じます)
 
-面白いなと感じている言語はGolang
+静的型付けの中ではGoが書きやすく、好きです。
 
-**一番お世話になっている感じる言語はawkとjqです**
+**結局使用頻度が高いものはawkとjq**なのではないかと感じています。
 
-## 業務経験あり
-
-### 言語
+## 言語
 - Python3.7系
 - JavaScript(ES6以降)
 - PHP(7系)
 - Ruby(2系)
 - Go(1.5系)
 
-### FW/ライブラリ
+## FW/ライブラリ
 - FuelPHP
 - Node.js
 - RubyonRails
@@ -23,30 +21,25 @@
 - jquery
 - Backbone.js
 
+## IaC関連
 
-### パブリッククラウド
-- AWS
-  - EC2
-  - ECS
-    - Fargate
-  - Atehna
-  - S3
-  - DynamoDB
-  - RDS
-  - Elastic Cache etc・・・
-- GCP
-  - BigQuery
+- Terraform(1.1系)
+  - TerraformとAWSを使ってECS Fargate環境で動作するWebアプリケーション構築を業務で行いました
 
-### 構成管理
+## 構成管理
 - Ansible
+
+
+## パブリッククラウド
+- AWS
+  - AWS資格11種取得済み
+  - 業務経験あり
+    -  Terraformを利用して ECSkFARGATE実行環境で動作するアプリケーション構築(0から)
+    -  CI/CDパイプライン構築 など
+- GCP
+  - BigQueryなど
+    - AWSに比べて経験が少ないため、機会があれがこちらも学習したい
 
 ### バージョン管理
 - git
 - subversion
-
-## 業務経験なし
-
-以下は業務経験がなく、プライベートで利用・学習しているものとなります。
-
-### 構成管理
-- Terraform

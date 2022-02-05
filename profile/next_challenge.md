@@ -8,7 +8,7 @@
 
 - [x] OSSのコントリビューターになる(Be a OSS contributer.)
   - 忙しくて最近できていないけど・・・
-- [ ] AWSを生かしたサービス構築業務を1年やり切る(Complete a year of service building work using AWS.)
+- [ ] AWSとTerraformを利用したサービス構築業務をやり切る(Complete a service building work using AWS.)
 - [ ] AWSのベータ版試験(AWS on SAP)が正式版になったら合格する(Pass the AWS beta exam when it becomes official.)
 - [ ] TOEICで600点を超える(Score over 600 on TOEIC.)
 

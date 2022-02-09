@@ -35,8 +35,8 @@
 
 - [シンプルなコンテナアプリをFARGATEで構築。BGデプロイまでTerraformで構築する](https://github.com/bun913/aws_network_practice/tree/main/simple_ecs_app)
 - [プライベートサブネットのEC2にSSMで接続](https://github.com/bun913/aws_network_practice/tree/main/aurora)
-- [CloudFrontに独自ドメイン設定。あえてDNSにRoute53を使わない(https://github.com/bun913/aws_network_practice/tree/main/cloudfront_s3_acm)
+- [CloudFrontに独自ドメイン設定。あえてDNSにRoute53を使わない](https://github.com/bun913/aws_network_practice/tree/main/cloudfront_s3_acm)
 - [Terraformで機密情報を扱うには ~RDSパスワード編~](https://github.com/bun913/aws_network_practice/tree/main/aurora)
-- CloudWatchLogsでFARGATE実行環境のログを収集。Firehoseにストリーミングして、S3にも吐かせる。
-- ↑のFluentdを使ってCloudWatchlogに吐かないパターンもする(コスト面を考慮)
-  - その際ログ調査をしやすくしたい
+- [FARGATE実行環境のログをfluendのサイドカーで収集。Firehoseにストリーミングして、S3にも吐かせる。](https://github.com/bun913/aws_network_practice/tree/main/ecs_cloudwatch_logs)
+    - CloudWacthLogsに出力するログはSlackとemail通知をしたい
+- AWSの負荷テストソリューションで負荷テストを試したい

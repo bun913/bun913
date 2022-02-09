@@ -34,7 +34,7 @@
 - AWS
   - AWS資格11種取得済み
   - 業務経験あり
-    -  Terraformを利用して ECSkFARGATE実行環境で動作するアプリケーション構築(0から)
+    -  Terraformを利用して ECS(FARGATE実行環境)で動作するアプリケーション構築(0から)
     -  CI/CDパイプライン構築 など
 - GCP
   - BigQueryなど

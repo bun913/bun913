@@ -11,6 +11,7 @@
 - [ ] AWSとTerraformを利用したサービス構築業務をやり切る(Complete a service building work using AWS.)
 - [ ] AWSのベータ版試験(AWS on SAP)が正式版になったら合格する(Pass the AWS beta exam when it becomes official.)
 - [ ] TOEICで600点を超える(Score over 600 on TOEIC.)
+- [ ] 安全確保支援士合格
 
 ### 2021 年度
 

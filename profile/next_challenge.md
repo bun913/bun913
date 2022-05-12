@@ -13,7 +13,7 @@
 - [x] TOEICで600点を超える(Score over 600 on TOEIC.)
   - 初受験で605点!!1日10分くらいでも毎日続ければ力になる模様 
 - [ ] TOEICで650点を超える(Score over 650 on TOEIC.)
-- [ ] 安全確保支援士合格
+- [ ] CCNA合格
 
 ### 2021 年度
 
@@ -42,4 +42,5 @@
 - [Terraformで機密情報を扱うには ~RDSパスワード編~](https://github.com/bun913/aws_network_practice/tree/main/aurora)
 - [FARGATE実行環境のログをfluendのサイドカーで収集。Firehoseにストリーミングして、S3にも吐かせる。](https://github.com/bun913/aws_network_practice/tree/main/ecs_cloudwatch_logs)
     - CloudWacthLogsに出力するログはSlackとemail通知をしたい
+- SSM AutomationによるEC2の夜間自動停止などの仕組みをTerraformで作る
 - AWSの負荷テストソリューションで負荷テストを試したい

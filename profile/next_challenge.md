@@ -8,12 +8,13 @@
 
 - [x] OSSのコントリビューターになる(Be a OSS contributer.)
   - 忙しくて最近できていないけど・・・
-- [ ] AWSとTerraformを利用したサービス構築業務をやり切る(Complete a service building work using AWS.)
+- [x] AWSとTerraformを利用したサービス構築業務をやり切る(Complete a service building work using AWS.)
 - [ ] AWSのベータ版試験(AWS on SAP)が正式版になったら合格する(Pass the AWS beta exam when it becomes official.)
 - [x] TOEICで600点を超える(Score over 600 on TOEIC.)
   - 初受験で605点!!1日10分くらいでも毎日続ければ力になる模様 
-- [ ] TOEICで650点を超える(Score over 650 on TOEIC.)
-- [ ] CCNA合格
+- [x] TOEICで650点を超える(Scored 675)
+- ~~[ ] CCNA合格~~
+- [ ] AtCoderで茶色になる
 
 ### 2021 年度
 

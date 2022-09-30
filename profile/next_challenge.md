@@ -11,11 +11,12 @@
 - [x] AWSとTerraformを利用したサービス構築業務をやり切る(Complete a service building work using AWS.)
 - [x] AWSのベータ版試験(AWS on SAP)が正式版になったら合格する(Pass the AWS beta exam when it becomes official.)
 - [x] TOEICで600点を超える(Score over 600 on TOEIC.)
-  - 初受験で605点!!1日10分くらいでも毎日続ければ力になる模様 
+  - 初受験で605点!!1日10分くらいでも毎日続ければ力になる模様
 - [x] TOEICで650点を超える(Scored 675)
   - 2回目の受験で675点。次は700点を超えたい
 - [ ] TOEICで700点を超える(Scored 675)
-- [ ] AtCoderで茶色になる
+- [x] AtCoderで茶色になる
+  - 2022年9月24日のコンテストで茶色になった
 
 ### 2021 年度
 

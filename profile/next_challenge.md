@@ -4,6 +4,14 @@
 
 ## 年間目標(Annual Targets)
 
+### 2023 年度
+
+- [ ] Become green coder at AtCoder
+- [ ] Update my AWS Certfication(SAP)
+- [ ] Update my AWS Certfication(DOP)
+- [ ] Score over 750 on TOEIC
+- [ ] Study software architecting
+
 ### 2022 年度
 
 - [x] OSSのコントリビューターになる(Be a OSS contributer.)

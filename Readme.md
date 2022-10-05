@@ -6,7 +6,6 @@
 ## 私は誰?(Who am I?)
 
 ![bun913_atcoder_rating](https://badgen.org/img/atcoder/bun913/rating/algorithm?style=flat)
-
 ![bun913_zenn_likes](https://badgen.org/img/zenn/bun913/likes?style=flat)
 
 - 元公務員エンジニア

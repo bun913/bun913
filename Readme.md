@@ -5,6 +5,10 @@
 
 ## 私は誰?(Who am I?)
 
+![bun913_atcoder_rating](https://badgen.org/img/atcoder/bun913/rating/algorithm?style=flat)
+
+![bun913_zenn_likes](https://badgen.org/img/zenn/bun913/likes?style=flat)
+
 - 元公務員エンジニア
 - Terraformを使ってAWSによるインフラ構築などの経験もありますが、アプリケーション寄りのバックグラウンドを持つDevOpsなエンジニアです
 - CI/CDパイプラインを構築する・自動化するというのは過程・手段の一つであり、本質的には組織全体を効率的で強い組織にできるようなDevOpsなエンジニアになりたいです

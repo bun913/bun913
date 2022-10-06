@@ -1,10 +1,8 @@
 ## Hello!Nice to see you.
 
-I'm Cloud engineer and Backend developer in Japan.
-
-I have passed all AWS cetification exams.
-
-I enjoy competitive programming at [AtCoder](https://atcoder.jp/?lang=ja).
+- I'm Cloud engineer and Backend developer in Japan.
+- I have passed all AWS cetification exams.
+- I enjoy competitive programming at [AtCoder](https://atcoder.jp/?lang=ja).
 
 ### Where to find me
 

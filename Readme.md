@@ -4,12 +4,23 @@
 - I have passed all AWS cetification exams.
 - I enjoy competitive programming at [AtCoder](https://atcoder.jp/?lang=ja).
 
-### Where to find me
+### My Output
+
+### Corprate Blog
+
+I use this site as main outputs destination recently.
+
+<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;" title="今泉大樹 | DevelopersIO" src="https://hatenablog-parts.com/embed?url=https://dev.classmethod.jp/author/bun913/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+
+### AtCoder
 
 [![Rating](https://badgen.org/img/atcoder/bun913/rating/algorithm?style=for-the-badge)](https://atcoder.jp/users/bun913?contestType=algo)
+
+### Zenn
+
 [![Likes](https://badgen.org/img/zenn/bun913/likes?style=for-the-badge)](https://zenn.dev/bun913)
 
-### My Activity
+## My Activity
 
 [![](https://raw.githubusercontent.com/bun913/bun913/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/bun913/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/bun913/bun913/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/bun913/github-profile-summary-cards)

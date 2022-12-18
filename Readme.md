@@ -10,7 +10,7 @@
 
 I use this site as main outputs destination recently.
 
-<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;" title="今泉大樹 | DevelopersIO" src="https://hatenablog-parts.com/embed?url=https://dev.classmethod.jp/author/bun913/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
+[DevelopersIO](https://dev.classmethod.jp/author/bun913/)
 
 ### AtCoder
 

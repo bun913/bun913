@@ -13,6 +13,7 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "IJFRLX8"
+          LANG: "en"
           # GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
@@ -20,6 +21,5 @@ jobs:
           # ICON_SECOND: "#1688BF"
           # BACKGROUND_FIRST: "#020E27"
           # BACKGROUND_SECOND: "#0E5593"
-          # LANG: "ja"
           # CARD_WIDTH: "400"
           # UPDATE_TIME: "true"

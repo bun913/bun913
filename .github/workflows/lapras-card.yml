@@ -14,6 +14,7 @@ jobs:
         with:
           SHARE_ID: "IJFRLX8"
           LANG: "en"
+          UPDATE_TIME: "false"
           # GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能
@@ -22,4 +23,3 @@ jobs:
           # BACKGROUND_FIRST: "#020E27"
           # BACKGROUND_SECOND: "#0E5593"
           # CARD_WIDTH: "400"
-          # UPDATE_TIME: "true"

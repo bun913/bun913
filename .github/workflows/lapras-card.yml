@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          SHARE_ID: IJFRLX8
+          SHARE_ID: "IJFRLX8"
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           # 以下オプション
           # https://lapras-card-generator.vercel.app でカスタマイズしたデザインを設定可能

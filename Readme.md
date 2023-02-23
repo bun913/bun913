@@ -13,9 +13,10 @@
 ## My Activity
 
 [![](https://raw.githubusercontent.com/bun913/bun913/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/bun913/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/bun913/bun913/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/bun913/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/bun913/bun913/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/bun913/github-profile-summary-cards)
-[![bun913's GitHub stats](https://github-readme-stats.vercel.app/api?username=bun913)](https://github.com/anuraghazra/github-readme-stats)[![](https://raw.githubusercontent.com/bun913/bun913/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/bun913/github-profile-summary-cards)
+[![bun913's GitHub stats](https://github-readme-stats.vercel.app/api?username=bun913)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
 
 ## Certification
 

@@ -8,8 +8,8 @@
 - :trophy: I have passed all AWS cetification exams.
 - :computer: I enjoy competitive programming at [AtCoder](https://atcoder.jp/?lang=ja).
 - :notebook_with_decorative_cover: I have recently been publishing mainly on the following corporate blogs.
+- My main output: [DevelopersIO](https://dev.classmethod.jp/author/bun913/)
 
-<iframe class="hatenablogcard" style="width:100%;height:155px;max-width:680px;" title="今泉大樹 | DevelopersIO" src="https://hatenablog-parts.com/embed?url=https://dev.classmethod.jp/author/bun913/" width="300" height="150" frameborder="0" scrolling="no"></iframe>
 ## My Activity
 
 [![](https://raw.githubusercontent.com/bun913/bun913/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/bun913/github-profile-summary-cards)

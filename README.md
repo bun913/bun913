@@ -16,6 +16,8 @@
 [![bun913's GitHub stats](https://github-readme-stats.vercel.app/api?username=bun913)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:lapras-card-->
+<a href="https://lapras.com/public/IJFRLX8" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.44&b=2.85&i=3.31&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 2/23/2023, 2:01:10 PM
 <!--END_SECTION:lapras-card-->
 
 ## Certification

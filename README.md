@@ -10,7 +10,7 @@
 - :notebook_with_decorative_cover: I have recently been publishing mainly on the following corporate blogs.
 - My main output: [DevelopersIO](https://dev.classmethod.jp/author/bun913/)
 
-![devio](developersio/bun913.svg)
+[![devio](developersio/bun913.svg)](https://dev.classmethod.jp/author/bun913/)
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/IJFRLX8" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.48&b=2.85&i=3.33&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a>

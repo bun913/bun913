@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          SHARE_ID: "IJFRLX8"
+          SHARE_ID: "bun913"
           LANG: "en"
           UPDATE_TIME: "false"
           # GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}

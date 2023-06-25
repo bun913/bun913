@@ -1,6 +1,6 @@
 ## Hello!Nice to see you.
 
-![aws_cert](https://img.shields.io/badge/-AWSCert%2012-232F3E.svg?logo=amazon-aws&style=flat) [![Likes](https://badgen.org/img/zenn/bun913/likes?style=plastic)](https://zenn.dev/bun913) [![Rating](https://badgen.org/img/atcoder/bun913/rating/algorithm?style=plastic)](https://atcoder.jp/users/bun913?contestType=algo)
+![aws_cert](https://img.shields.io/badge/-AWSCert%2012-232F3E.svg?logo=amazon-aws&style=flat) [![Likes](https://badgen.org/img/zenn/bun913/likes?style=plastic)](https://zenn.dev/bun913) [![bun913](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fbun913)](https://atcoder.jp/users/bun913)
 
 ![typescript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat) ![javascripit](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat) ![python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat) ![golang](https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat) ![ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
 

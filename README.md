@@ -14,7 +14,7 @@
 [![devio](developersio/bun913.svg)](https://dev.classmethod.jp/author/bun913/)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/bun913" target="_blank" rel="noopener noreferrer"><img alt="bun913's scores on LAPRAS are as follows: Engineering: 3.75 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.41 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.75&b=3.43&i=3.41&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
+<p ><a href="https://lapras.com/public/bun913" target="_blank" rel="noopener noreferrer"><img alt="bun913's scores on LAPRAS are as follows: Engineering: 3.76 out of 5.0, Business: 3.43 out of 5.0, Influence: 3.41 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.76&b=3.43&i=3.41&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=en" width="400" ></a></p>
 <!--END_SECTION:lapras-card-->
 
 ## My Activity

@@ -47,6 +47,12 @@ Pleae look at [Presentation](presentation/presentation.md).
 |----------------------------------------------------|------|
 |2023 Japan AWS Top Engineers                        |2023|
 
+### :test_tube: Software Testing
+
+| Certification                                    | Acquisition date |
+|--------------------------|------------------|
+| JSTQB Foundation Level   | 2023/10          |
+
 ### :package: Container & OS
 
 |Certification                              |Acquisition date         |

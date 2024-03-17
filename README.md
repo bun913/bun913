@@ -30,12 +30,12 @@ Pleae look at [Presentation](presentation/presentation.md).
 
 |Certification                              |Acquisition date         |
 |----------------------------------------------------|------|
-|AWS Certified Cloud Practitioner                    |2021/2|
-|AWS Certified Solutions Architect – Associate       |2021/2|
-|AWS Certified SysOps Administrator - Associate      |2021/3|
-|AWS Certified Developer - Associate                 |2021/4|
-|AWS Certified Solutions Architect - Professional    |2021/5|
-|AWS Certified DevOps Engineer - Professional        |2021/5|
+|AWS Certified Cloud Practitioner                    |2021/2 (2024/03 Update)|
+|AWS Certified Solutions Architect – Associate       |2021/2 (2024/03 Update)|
+|AWS Certified SysOps Administrator - Associate      |2021/3 (2024/03 Update)|
+|AWS Certified Developer - Associate                 |2021/4 (2024/03 Update)|
+|AWS Certified Solutions Architect - Professional    |2021/5 (2024/03 Update)|
+|AWS Certified DevOps Engineer - Professional        |2021/5 (2024/03 Update)|
 |AWS Certified Security - Specialty                  |2021/6|
 |AWS Certified Database - Specialty                  |2021/7|
 |AWS Certified Advanced Networking - Specialty       |2021/8|

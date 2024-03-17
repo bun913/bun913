@@ -26,6 +26,13 @@ Pleae look at [Presentation](presentation/presentation.md).
 
 ## Certification
 
+### :books: IPA
+
+|Certification                              |Acquisition date         |
+|----------------------------------------------------|------|
+|ITパスポート  |2017/07|
+|応用情報技術者試験  |2018/06|
+
 ### :computer: Programming
 
 |Certification                              |Acquisition date         |

@@ -26,6 +26,12 @@ Pleae look at [Presentation](presentation/presentation.md).
 
 ## Certification
 
+### :computer: Programming
+
+|Certification                              |Acquisition date         |
+|----------------------------------------------------|------|
+|Ruby Gold  |2019/07|
+
 ### :cloud: Cloud
 
 |Certification                              |Acquisition date         |

@@ -65,7 +65,8 @@ Pleae look at [Presentation](presentation/presentation.md).
 | Certification                                    | Acquisition date |
 |--------------------------|------------------|
 | JSTQB Foundation Level   | 2023/10          |
-| JSTQB Advanced Level Test Manager | 2024/1          |
+| JSTQB Advanced Level Test Manager | 2024/1  |
+| JSTQB Advanced Level Test Analyst | 2024/4  |
 
 ### :package: Container & OS
 

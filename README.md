@@ -4,8 +4,8 @@
 
 ![typescript](https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat) ![javascripit](https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat) ![python](https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat) ![golang](https://img.shields.io/badge/-Go-76E1FE.svg?logo=go&style=flat) ![ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
 
-- :cloud: My role is SDET. And I'm a soulution architect.
-    - [2024 Japan AWS Top Engineers(Services) award](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/) and [2024 Japan AWS All Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/)
+- :cloud: My role is SDET. And I'm a solution architect.
+    - [2024 Japan AWS Top Engineers(Services)](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-top-engineers/) and [2024 Japan AWS All Certifications Engineers](https://aws.amazon.com/jp/blogs/psa/2024-japan-aws-all-certifications-engineers/)
     - [2023 Japan AWS Top Engineers(Services)](https://aws.amazon.com/jp/blogs/psa/2023-japan-aws-top-engineers/) and [2023 AWS ALL Certifications Engineer](https://aws.amazon.com/jp/blogs/psa/2023-aws-all-certifications-engineers-apply/)
 - :computer: I enjoy competitive programming at [AtCoder](https://atcoder.jp/?lang=ja).
 - :notebook_with_decorative_cover: I have recently been publishing mainly on the following corporate blogs.

@@ -90,3 +90,4 @@ Pleae look at [Speaker Deck](https://speakerdeck.com/bun913).
 |-------------------------------------------------------|-------------|
 |TOEIC 605 scored                                            |2022/2|
 |TOEIC 675 scored                                            |2022/7|
+|TOEIC 795 scored                                            |2024/10|

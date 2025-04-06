@@ -88,4 +88,4 @@ Pleae look at [Speaker Deck](https://speakerdeck.com/bun913).
 
 |Certification                              |Acquisition date         |
 |-------------------------------------------------------|-------------|
-|TOEIC 835 scored                                            |2025/2|
+|TOEIC 845 scored                                            |2025/3|

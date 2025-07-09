@@ -89,3 +89,4 @@ Pleae look at [Speaker Deck](https://speakerdeck.com/bun913).
 |Certification                              |Acquisition date         |
 |-------------------------------------------------------|-------------|
 |TOEIC 845 scored                                            |2025/3|
+|VERSANT 62 scored                                            |2025/7|

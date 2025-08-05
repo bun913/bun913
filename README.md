@@ -73,6 +73,8 @@ Pleae look at [Speaker Deck](https://speakerdeck.com/bun913).
 | JSTQB Advanced Level Test Manager | 2024/1  |
 | JSTQB Advanced Level Test Analyst | 2024/4  |
 | ASTQB Advanced Level Technical Test Analyst | 2024/5  |
+| ASTQB Advanced Level Test Automation Engineering | 2025/7  |
+| ASTQB Specialist Level Testing with Generative AI | 2025/8  |
 
 ### :package: Container & OS
 

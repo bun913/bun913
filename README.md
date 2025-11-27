@@ -93,3 +93,4 @@ Pleae look at [Speaker Deck](https://speakerdeck.com/bun913).
 |TOEIC 845 scored                                            |2025/3|
 |VERSANT 62 scored                                            |2025/7|
 |EIKEN Grade Pre-1                                            |2025/10|
+|TOEIC Speaking; 170 Writing: 160                                            |2025/11|

@@ -18,12 +18,6 @@
 Last Updated on 12/3/2025, 12:26:12 AM</p>
 <!--END_SECTION:lapras-card-->
 
-## My Activity
-
-[![](https://raw.githubusercontent.com/bun913/bun913/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/bun913/github-profile-summary-cards)
-
-[![bun913's GitHub stats](https://github-readme-stats.vercel.app/api?username=bun913)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Presentation
 
 Pleae look at [Speaker Deck](https://speakerdeck.com/bun913).

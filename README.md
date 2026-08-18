@@ -70,6 +70,13 @@ Pleae look at [Speaker Deck](https://speakerdeck.com/bun913).
 | ASTQB Advanced Level Test Automation Engineering | 2025/7  |
 | ASTQB Specialist Level Testing with Generative AI | 2025/8  |
 
+### :shield: Security
+
+| Certification                                    | Acquisition date |
+|--------------------------|------------------|
+| BSCP(Burp Suite Certified Practioner)   | 2026/8 |
+
+
 ### :package: Container & OS
 
 |Certification                              |Acquisition date         |
